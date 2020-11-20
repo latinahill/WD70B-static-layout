@@ -1,0 +1,56 @@
+body {
+    background-image: linear-gradient(to right, rgba(89, 0, 179), rgba(0, 45, 179));
+    
+
+}
+
+.section1 {
+    height: 100vh;
+}
+
+.flex-container {
+    display: flex;
+    height: 70px;
+    align-content: space-between;
+}
+
+.center { 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+   
+/* .topnav {
+  float: right;
+  text-align: center;
+  padding: 10px 16px;
+  margin: -10px
+} */
+
+.main {
+
+
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+  color: white;
+  font-size: 18px;
+  text-align: center;
+  font-style: Roboto;
+}
+
+.btn2{
+    background-color: orange;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+
+
